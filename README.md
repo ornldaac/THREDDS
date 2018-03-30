@@ -1,6 +1,6 @@
 # Tutorial: Access Distributed NASA Earth Science Data from OPeNDAP Services using Python
 ## Analyze the difference of radiation between January and July
-*Author: Angie Wei, Yaxing Wei*
+*Author: ORNL DAAC*
 <br>
 *Date: March 9, 2018*
 <br>
@@ -14,3 +14,6 @@ In this tutorial, we will explore how to use ORNL DAAC data from THREDDS Data Se
 Spatial and temporal subsets of mean monthly surface climate over global land areas, excluding Antarctica. In this example, radiation data is obtained from [this ORNL DAAC's THREDDS server.](https://thredds.daac.ornl.gov/thredds/catalog/ornldaac/542/catalog.html?dataset=542/climate6190_RAD.nc4) 
 ## Prerequisites:
 Python 2.7 or greater. Python modules: `pydap`, `basemap`, `matplotlib`, `numpy`
+## Procedure
+Access the tutorial here:  
+[Tutorial](opendap_python_v1.ipynb)
