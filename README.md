@@ -15,5 +15,4 @@ Spatial and temporal subsets of mean monthly surface climate over global land ar
 ## Prerequisites:
 Python 2.7 or greater. Python modules: `pydap`, `basemap`, `matplotlib`, `numpy`
 ## Procedure
-Access the tutorial here:  
-[Tutorial](opendap_python_v1.ipynb)
+Access the tutorial here:  [Tutorial](opendap_python_v1.ipynb)
